@@ -1,6 +1,6 @@
 ###subspace
 1. Install all the required packages using
-```javascript
+```bash
       npm i
 ```
  
